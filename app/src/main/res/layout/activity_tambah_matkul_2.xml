@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="mana.huda.masukkan.activity.TambahMatkulActivity2">
+
+    <TextView
+        android:id="@+id/tvResultNama"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        tools:text="Fariz"
+        android:textSize="16sp"/>
+
+
+    <EditText
+        android:id="@+id/etNamaMatkul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:hint="Nama Matkul"/>
+
+    <Button
+        android:id="@+id/btnSimpanMatkul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="SIMPAN MATKUL"/>
+</LinearLayout>
