@@ -7,7 +7,7 @@
     android:paddingRight="16dp"
     android:paddingLeft="16dp"
     android:orientation="vertical"
-    tools:context="mana.huda.masukkan.activity.MatkulDetailActivity">
+    tools:context="mana.huda.masukkan.activity.MasukanDetailActivity">
 
     <ImageView
         android:id="@+id/ivTextDrawable"

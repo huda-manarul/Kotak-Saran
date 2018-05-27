@@ -8,7 +8,7 @@
     android:paddingRight="8dp"
     android:paddingLeft="8dp"
     android:orientation="vertical"
-    tools:context="mana.huda.masukkan.activity.MatkulActivity">
+    tools:context="mana.huda.masukkan.activity.MasukanActivity">
 
     <TextView
         android:id="@+id/tvBelumMatkul"

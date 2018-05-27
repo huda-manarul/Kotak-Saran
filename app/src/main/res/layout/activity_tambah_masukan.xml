@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:padding="16dp"
     android:orientation="vertical"
-    tools:context="mana.huda.masukkan.activity.TambahMatkulActivity2">
+    tools:context="mana.huda.masukkan.activity.TambahMasukanActivity">
 
     <TextView
         android:id="@+id/tvResultNama"
